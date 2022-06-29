@@ -1,0 +1,1 @@
+//En aquesta carpeta es poden trobar els models creats per SolidWorks i arxius STL
